@@ -11,9 +11,6 @@ Projeto feito com NextJS, Typescript, Axios, Valtio, TailwindCSS, Framer-motion 
 
 npm i 
 
-# ou
-
-npm install
 ```
 
   ## Para iniciar
@@ -25,14 +22,6 @@ Você consegue rodar o ambiente de desenvolvimento pelos comandos a seguir no te
 ```bash
 
 npm run dev
-
-# ou
-
-yarn dev
-
-# ou
-
-pnpm dev
 
 ```
 
